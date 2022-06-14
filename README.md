@@ -1,17 +1,10 @@
-# Hello, world! I'm Bruno Andrade! 🌎
+# Hello, world! I'm Bruno ! 🌎 Olá mundo! Eu sou Bruno! 🇧🇷
 
-My favorite phrase:
+<p align="center"> My favorite phrase | Minha frase favorita </p>
 
-"The only difference between master and apprentice is that the master has failed as many times as the apprentice ever thought to try."
-
+"The only difference between master and apprentice is that the master has failed as many times as the apprentice ever thought to try." <br/> "A única diferença entre mestre e aprendiz é que o mestre falhou tantas vezes quanto o aprendiz jamais imaginou tentar."
 <br/>
 
-# Olá, mundo! Eu sou Bruno! 🇧🇷
-Minha frase favorita:
-
-"A única diferença entre mestre e aprendiz é que o mestre falhou tantas vezes quanto o aprendiz jamais imaginou tentar."
-
-<br/>
 <div >
   <a href="https://github.com/brunoan99/brunoan99">
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=brunoan99&show_icons=true&count_private=true&theme=dracula" />
@@ -26,7 +19,7 @@ Minha frase favorita:
 
 <p align="center">Skills | Habilidades</p>
 
-
+<div>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -49,11 +42,12 @@ Minha frase favorita:
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-
+</div>
 <br/>
 
 <p align="center"> Want to learn | Pretendo aprender </p>
 
+<div>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -71,10 +65,13 @@ Minha frase favorita:
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+</div>
 
 <br/>
 
 <p align="center">Where to find me | Onde me encontrar</p>
+
+<div>
 <a href="brunoan99@gmail.com"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -90,4 +87,5 @@ Minha frase favorita:
 <a href="https://open.spotify.com/user/315wim26swdkz4zrwqora4isvtfq"> 
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 </a>
+</div>
 <br/>
