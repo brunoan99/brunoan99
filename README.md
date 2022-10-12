@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/brunoan99/brunoan99">
-    <img align="left"  src="https://github-readme-stats.vercel.app/api?username=brunoan99&show_icons=true&count_private=true&theme=dracula" />
+    <img align="left" width="48.50%" src="https://github-readme-stats.vercel.app/api?username=brunoan99&show_icons=true&count_private=true&theme=dracula" />
   </a>
 
   <a href="https://github.com/brunoan99/brunoan99">
@@ -14,6 +14,7 @@
 </div>
 <br clear="left"/>
 <br/>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br/>
 
 <div>
