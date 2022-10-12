@@ -3,7 +3,7 @@
 "The only difference between master and apprentice is that the master has failed as many times as the apprentice ever thought to try."
 <br/>
 
-<div >
+<div>
   <a href="https://github.com/brunoan99/brunoan99">
     <img align="left"  src="https://github-readme-stats.vercel.app/api?username=brunoan99&show_icons=true&count_private=true&theme=dracula" />
   </a>
@@ -16,10 +16,8 @@
 <br/>
 <br/>
 
-
-<p>Skills</p>
-
 <div>
+  <p>Skills</p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -30,17 +28,17 @@
 </div>
 <br/>
 
-<p>Learn in progress</p>
 
 <div>
+  <p>Learn in progress</p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
 </div>
 <br/>
 
-<p>Want to learn</p>
 
 <div>
+  <p>Want to learn</p>
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
@@ -50,9 +48,9 @@
 </div>
 <br/>
 
-<p>Where to find me</p>
 
 <div>
+  <p>Where to find me</p>
   <a href="brunoan99@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
