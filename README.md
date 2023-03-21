@@ -3,7 +3,7 @@
 "The only difference between master and apprentice is that the master has failed as many times as the apprentice ever thought to try."
 <br/>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/brunoan99/brunoan99">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoan99&layout=compact&theme=dracula" />
   </a>
